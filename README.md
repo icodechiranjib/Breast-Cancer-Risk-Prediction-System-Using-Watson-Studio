@@ -10,4 +10,4 @@
 
 ## Proposed Technical Architecture:
 
-! [Proposed Technical Architecture] (https://github.com/icodechiranjib/Breast-Cancer-Risk-Prediction-System-Using-Watson-Studio/blob/master/img/idea.JPG)
+![Proposed Technical Architecture](https://github.com/icodechiranjib/Breast-Cancer-Risk-Prediction-System-Using-Watson-Studio/blob/master/img/idea.JPG)
