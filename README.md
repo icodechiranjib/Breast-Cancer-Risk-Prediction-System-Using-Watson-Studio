@@ -10,4 +10,4 @@ We will be building a model in Watson Studio and deploying the model in IBM Wats
 
 ## Proposed Technical Architecture:
 
-![Proposed Technical Architecture] (https://github.com/icodechiranjib/Breast-Cancer-Risk-Prediction-System-Using-Watson-Studio/master/img/idea.JPG)
+! [Proposed Technical Architecture] (https://github.com/icodechiranjib/Breast-Cancer-Risk-Prediction-System-Using-Watson-Studio/master/img/idea.JPG)
